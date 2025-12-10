@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anthony Kellum | Cybersecurity Career</title>
+  <meta name="description" content="Cybersecurity, privacy, resilience, career path">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="career.html">Career Insights</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="quotes.html">Quotes</a></li>
+        <li><a href="resources.html">Resources</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Page-specific content goes here -->
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Anthony Kellum | Cybersecurity Career Path</p>
+  </footer>
+</body>
+</html>
+
+<main>
+  <section class="hero">
+    <h1>Welcome to My Career Website</h1>
+    <p>My name is Anthony Kellum, and I am beginning my journey toward a career in cybersecurity. I believe protecting information and defending against digital threats is one of the most important challenges of our time. My inspiration comes from figures like Edward Snowden, who revealed the importance of transparency in technology, and Malcolm X, who taught the value of courage, resilience, and standing up for what you believe in. This site highlights my goals, projects, and research into cybersecurity, while also sharing resources for anyone interested in learning more about this field.</p>
+    <button onclick="window.location.href='career.html'">Learn More About My Career Path</button>
+  </section>
+
+  <section class="links">
+    <h2>Featured Resources</h2>
+    <ul>
+      <li><a href="https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm" target="_blank">BLS Cybersecurity Career Guide</a></li>
+      <li><a href="https://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet" target="_blank">Edward Snowden TED Talk</a></li>
+    </ul>
+  </section>
+
+  <section class="video">
+    <h2>What is Cybersecurity?</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6S0Zy7v2Tqk" frameborder="0" allowfullscreen></iframe>
+  </section>
+</main>
+
+<main>
+  <h1>About Me</h1>
+  <p>My name is Anthony Kellum, and my journey has been anything but traditional. I dropped out of school at 17, but later in my thirties I went back to earn my GED and completed a culinary degree. For over ten years, I worked as a sous chef, building skills in leadership, creativity, and discipline. However, over time I lost my passion for cooking. I also realized how difficult it can be to succeed as a Black chef in the industry.</p>
+  <p>That turning point led me to computers. I discovered a new passion in cybersecurity, where protecting people’s data and information from threats across the world became my mission. My career path now points toward opportunities with Google, Homeland Security, or even working in law enforcement (PD). I believe my diverse background gives me a unique perspective: the precision of a chef combined with the analytical mindset of a cybersecurity professional.</p>
+
+  <h2>Resources</h2>
+  <ul>
+    <li><a href="https://careers.google.com/jobs/results/?distance=50&employment_type=FULL_TIME&job_type=CYBERSECURITY" target="_blank">Google Cybersecurity Careers</a></li>
+    <li><a href="https://www.dhs.gov/cybersecurity-careers" target="_blank">Homeland Security Cybersecurity</a></li>
+  </ul>
+
+  <h2>Video</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3z0d8gkzFzY" frameborder="0" allowfullscreen></iframe>
+</main>
+
+<main>
+  <h1>Projects</h1>
+  <div class="gallery">
+    <img src="images/fish.jpg" alt="Fish dish with risotto and citrus">
+    <img src="images/lamb.jpg" alt="Lamb chops with sauce">
+    <img src="images/grits.jpg" alt="Seafood and grits with shrimp">
+    <img src="images/steaks.jpg" alt="Steaks on griddle">
+  </div>
+
+  <h2>Links</h2>
+  <ul>
+    <li><a href="https://github.com/anthonykellum" target="_blank">GitHub</a></li>
+    <li><a href="https://www.canva.com" target="_blank">Canva</a></li>
+    <li><a href="https://www.linkedin.com/in/anthonykellum" target="_blank">LinkedIn Portfolio</a></li>
+  </ul>
+
+  <h2>Demo Video</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tutorial" frameborder="0" allowfullscreen></iframe>
+</main>
+
+<main>
+  <h1>Cybersecurity Research</h1>
+  <p>Cybersecurity is one of the fastest-growing career fields today. According to the Bureau of Labor Statistics, information security analysts are projected to see 31.6% job growth from 2022 to 2032, with over 16,000 new openings each year...</p>
+
+  <h2>Resources</h2>
+  <ul>
+    <li><a href="https://www.cyberseek.org/pathway.html" target="_blank">CyberSeek Career Pathway</a></li>
+    <li><a href="https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool" target="_blank">NICCS Career Pathways Tool</a></li>
+    <li><a href="https://www.dhs.gov/cybersecurity" target="_blank">DHS Cybersecurity Mission</a></li>
+  </ul>
+
+  <h2>Videos</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/snowden" frameborder="0" allowfullscreen></iframe>
+</main>
+
+<main>
+  <h1>Career Insights</h1>
+  <p>Cybersecurity is one of the most resilient and fast-growing career paths in today’s digital world...</p>
+
+  <h2>Resources</h2>
+  <ul>
+    <li><a href="https://cybersn.com/reports" target="_blank">CyberSN – 2025 Cybersecurity Job Market Insights</a></li>
+    <li><a href="https://www.cyberseek.org/pathway.html" target="_blank">CyberSeek Career Pathway Tool</a></li>
+    <li><a href="https://www.dhs.gov/cybersecurity-careers" target="_blank">DHS Cybersecurity Careers</a></li>
+    <li><a href="https://www.cisa.gov/careers" target="_blank">Careers at CISA</a></li>
+    <li><a href="https://careers.google.com/jobs/results/?job_type=CYBERSECURITY" target="_blank">Google Cybersecurity Jobs</a></li>
+  </ul>
+
+  <h2>Poll</h2>
+  <form>
+    <label>Which career path interests you most?</label><br>
+    <input type="radio" name="career" value="law"> Law Enforcement<br>
+    <input type="radio" name="career" value="dhs"> Homeland Security<br>
+    <input type="radio" name="career" value="google"> Google<br>
+    <button type="submit">Submit</button>
+  </form>
+</main>
+
+<main>
+  <h1
